@@ -1,0 +1,7 @@
+# All files are from joan H930 31a
+# joan_global_com-user 9 PKQ1.190414.001 193091504cde8 release-keys 
+
+# Graphics (Firmware)
+vendor/firmware/a540_zap.b01
+vendor/firmware/a540_zap.elf
+vendor/firmware/a540_zap.mdt
