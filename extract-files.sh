@@ -14,8 +14,8 @@ fi
 
 set -e
 
-export DEVICE=joan
-export DEVICE_COMMON=joan-common
+export DEVICE=phoenix
+export DEVICE_COMMON=phoenix-common
 export VENDOR=lge
 export VENDOR_COMMON=${VENDOR}
 
