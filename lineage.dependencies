@@ -1,6 +1,6 @@
 [
   {
-    "repository": "android_device_lge_joan-common",
-    "target_path": "device/lge/joan-common"
+    "repository": "android_device_lge_phoenix-common",
+    "target_path": "device/lge/phoenix-common"
   }
 ]
